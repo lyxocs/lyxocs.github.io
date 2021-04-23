@@ -77,3 +77,7 @@ paginate: 20
 paginate_path: "page/:num/"
 
 
+# MathJax Support
+mathjax:
+  enable: true
+  per_page: true

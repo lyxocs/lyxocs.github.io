@@ -23,6 +23,7 @@ mathjax: true
    >**哈希策略**
    >
    >TM、TSS（PSTSS)
+![](/images/avatar.jpg)
 
 ![overview](/images/NuevoMatch/Figure 1,overview.jpg)
 <!-- ![image-20210423141557181](.\..\images\NuevoMatch\Figure 1,overview.jpg) -->
@@ -43,7 +44,7 @@ RMI不能直接用于包分类的原因：
 
 RQ-RMI 	match keys to ranges  
 
-![image-20210423200339742](.\..\images\NuevoMatch\Figure 2 Ruleeg.jpg)
+![image-20210423200339742](\images\NuevoMatch\Figure 2 Ruleeg.jpg)
 
 **RMI 思想**
 
@@ -65,7 +66,7 @@ RQ-RMI 	match keys to ranges
 
 **RMI结构模型**
 
-![RMI model](.\..\images\NuevoMatch\Figure 3 RMI model.jpg)
+![RMI model](\images\NuevoMatch\Figure 3 RMI model.jpg)
 
 > 每个节点都进行训练，然后最终叶子节点产生，预测的序号
 
@@ -85,7 +86,7 @@ RQ-RMI 	match keys to ranges
 
 ### 3.3 一维RQ-RMI
 
-![RQ-RMI training process](.\..\images\NuevoMatch\Figure 5 submodel training process.jpg)
+![RQ-RMI training process](\images\NuevoMatch\Figure 5 submodel training process.jpg)
 
 ### RQ-RMI总结
 
@@ -109,7 +110,7 @@ RQ-RMI 	match keys to ranges
 
 #### RQ-RMI结构
 
-![RQ-RMI configurations](.\..\images\NuevoMatch\Table 4 RQ-RMI configurations.jpg)
+![RQ-RMI configurations](\images\NuevoMatch\Table 4 RQ-RMI configurations.jpg)
 
 上表记录每一层的节点数与规则数的对应关系
 
@@ -129,7 +130,7 @@ RQ-RMI 	match keys to ranges
 
 ### **多维度处理**
 
-![partition rules](./../images/NuevoMatch/Figure 6 partition Rules.jpg)
+![partition rules](/images/NuevoMatch/Figure 6 partition Rules.jpg)
 
 > **将Rule分割到不相交的维度iSets**
 >

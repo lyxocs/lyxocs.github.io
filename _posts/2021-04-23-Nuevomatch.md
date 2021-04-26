@@ -24,7 +24,8 @@ mathjax: true
    >
    >TM、TSS（PSTSS)
 
-![image-20210423141557181](.\..\images\NuevoMatch\Figure 1,overview.jpg)
+![overview](/images/NuevoMatch/Figure 1,overview.jpg)
+<!-- ![image-20210423141557181](.\..\images\NuevoMatch\Figure 1,overview.jpg) -->
 
 **NuevoMatch overview**
 
